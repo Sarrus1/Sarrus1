@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/10231700" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="10231700" height="30" width="40" /></a>
-<a href="https://discord.gg/Sarrus#9090" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Sarrus#9090" height="30" width="40" /></a>
+<a href="https://discord.tensor.fr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="Sarrus#9090" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
