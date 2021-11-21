@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SourcePawn for VSCode](https://github.com/Sarrus1/sourcepawn-vscode)
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Docker**
 
 - 📫 How to reach me **Sarrus#9090**
 
