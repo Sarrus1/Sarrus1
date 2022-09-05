@@ -1,7 +1,7 @@
 # Sarrus
 
 <h1 align="center">Hi 👋, I'm Sarrus</h1>
-<h3 align="center">A french general engineering student</h3>
+<h3 align="center">French general engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarrus1&label=Profile%20views&color=0e75b6&style=flat" alt="sarrus1" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [SourcePawn for VSCode](https://github.com/Sarrus1/sourcepawn-vscode)
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **Sarrus#9090**
 
